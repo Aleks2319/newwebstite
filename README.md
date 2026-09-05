@@ -1,35 +1,29 @@
-# HeyU — Landing Page
+# HeyU Landing Page 💬
 
-Лендинг-страница для простого, удобного и компактного мобильного приложения для переписки **HeyU**. Проект разработан с акцентом на современный дизайн, адаптивность и плавные анимации.
+An educational project — a modern landing page for a mobile application built using HTML5, SCSS, JavaScript, and the Gulp build tool.
 
-## 🚀 Особенности проекта
-* **Адаптивная верстка:** Корректно отображается на экранах любых устройств.
-* **Препроцессор SCSS:** Использование модульной структуры стилей, миксинов и переменных.
-* **Инструменты сборки:** Gulp для автоматизации разработки, минификации кода и компиляции.
-* **Интерактивные элементы:** Плавная прокрутка, стильные карточки отзывов и кастомные иконки.
-* **Шрифты:** Интегрированы Google Fonts (*Montserrat* и *Suez One*).
+🚀 Key Features:
+* Responsive layout optimized for various devices
+* Modular styling with SCSS and modern CSS features
+* Asset bundling and automation using Gulp
+* Interactive elements and smooth scrolling
+* Custom typography (Montserrat and Suez One) and Font Awesome icons
 
-## 🛠️ Используемые технологии
-* **HTML5 / CSS3**
-* **SCSS (Sass)**
-* **JavaScript / jQuery**
-* **Bootstrap 5** (для базовой сетки и компонентов)
-* **Gulp** (сборщик проекта)
-* **Font Awesome** (иконки)
+🔗 Links:
+* [View Live Demo] (https://aleks2319.github.io/newwebstite/)
 
-## 📁 Структура проекта
-```text
-newwebstite/
-│
-├── app/                  # Исходные файлы разработки
-│   ├── scss/             # Стили SCSS
-│   └── js/               # JavaScript скрипты
-│
-├── public/               # Готовая сборка для продакшна
-│   ├── css/              # Компилированные стили
-│   ├── js/               # Скрипты
-│   └── img/              # Изображения и графикан
-│
-├── gulpfile.js           # Конфигурация Gulp
-├── package.json          # Зависимости проекта
-└── README.md             # Описание проекта
+---
+
+HeyU Landing Page 💬
+
+Учебный проект — современный лендинг для мобильного приложения, разработанный с использованием HTML5, SCSS, JavaScript и сборщика Gulp.
+
+🚀 Особенности проекта:
+* Адаптивная верстка, оптимизированная под разные устройства
+* Модульная структура стилей на SCSS
+* Автоматизация сборки и оптимизация через Gulp
+* Интерактивные элементы и плавная навигация
+* Использование современных шрифтов и иконок Font Awesome
+
+🔗 Ссылки:
+* [Посмотреть живой сайт](https://aleks2319.github.io/newwebstite/)
