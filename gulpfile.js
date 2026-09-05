@@ -12,7 +12,7 @@ gulp.task('minCss', async function() {
         .pipe(rename({ 
             suffix: '.min' 
         }))
-        .pipe(gulp.dest('public/css'))
+        .pipe(gulp.dest('docs/css'))
         .pipe(browserSync.stream());
 });
 
@@ -24,7 +24,7 @@ gulp.task('minJs', function() {
             },
             noSource: true
         }))
-        .pipe(gulp.dest('public/js'))
+        .pipe(gulp.dest('docs/js'))
         .pipe(browserSync.stream());
 });
 
@@ -35,10 +35,10 @@ gulp.task('watchAll', function() {
 
 gulp.task('browserSync', async function(done) {
     browserSync.init({
-        server: "public/"
+        server: "docs/"
     });
 
-    gulp.watch("public/*.html").on('change', browserSync.reload);
+    gulp.watch("docs/*.html").on('change', browserSync.reload);
     done();
 });
 
