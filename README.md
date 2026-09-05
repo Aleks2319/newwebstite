@@ -14,7 +14,7 @@ An educational project — a modern landing page for a mobile application built 
 
 ---
 
-HeyU Landing Page 💬
+# HeyU Landing Page 💬
 
 Учебный проект — современный лендинг для мобильного приложения, разработанный с использованием HTML5, SCSS, JavaScript и сборщика Gulp.
 
