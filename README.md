@@ -10,7 +10,7 @@ An educational project — a modern landing page for a mobile application built 
 * Custom typography (Montserrat and Suez One) and Font Awesome icons
 
 🔗 Links:
-* [View Live Demo] (https://aleks2319.github.io/newwebstite/)
+* [View Live Demo](https://aleks2319.github.io/newwebstite/)
 
 ---
 
